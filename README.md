@@ -1,0 +1,2 @@
+# icar-wip_202207-obniz
+[![pages-build-deployment](https://github.com/yosh1/icar-wip_202207-obniz/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yosh1/icar-wip_202207-obniz/actions/workflows/pages/pages-build-deployment)
